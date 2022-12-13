@@ -1,0 +1,68 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Daily Stoic Quotes\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-13 17:18+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.3; wp-6.1.1\n"
+"X-Domain: dailystoicquotes"
+
+#: admin/settings-register.php:35
+msgid "Customize Login Page"
+msgstr ""
+
+#: daily-stoic-quotes.php:37
+msgid "Daily Stoic Quote Settings"
+msgstr ""
+
+#. Name of the plugin
+#: daily-stoic-quotes.php:38
+msgid "Daily Stoic Quotes"
+msgstr ""
+
+#: admin/settings-register.php:53
+msgid "Data Source"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://staciefarmer.com"
+msgstr ""
+
+#: admin/display-quotes.php:70
+msgid "Quote from stoic philosopher:"
+msgstr ""
+
+#. Author of the plugin
+msgid "S. Farmer"
+msgstr ""
+
+#: admin/settings-callback.php:29
+msgid "These settings enable you to pick where you get the quote from."
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"This is a plugin that displays a daily quote from stoic philosophers in the "
+"admin area."
+msgstr ""
+
+#: admin/settings-callback.php:42
+msgid "Use API"
+msgstr ""
+
+#: admin/settings-callback.php:43
+msgid "Use custom JSON file"
+msgstr ""
+
+#: admin/settings-register.php:57
+msgid "Where to pull the API data from"
+msgstr ""
